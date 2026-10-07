@@ -1,0 +1,21 @@
+{
+  "keyword": "bitcoin",
+  "geo": "EG",
+  "timeRange": "today 12-m",
+  "searchType": "web",
+  "averageInterest": 32.32,
+  "peakDate": "2026-05-03",
+  "peakValue": 100,
+  "latestValue": 8,
+  "interestOverTime": [
+    {"date": "2025-10-05", "timestamp": 1759622400, "label": "Oct 5 – 11, 2025", "value": 22, "hasData": true, "isPartial": false}
+  ],
+  "interestByRegion": [
+    {"geoCode": "EG-JS", "geoName": "South Sinai Governorate", "value": 100}
+  ],
+  "relatedQueries": {
+    "top": [{"query": "bitcoin price", "value": 100, "formattedValue": "100"}],
+    "rising": [{"query": "bitcoin news today", "value": 484450, "formattedValue": "Breakout", "breakout": true}]
+  },
+  "scrapedAt": "2026-10-07T10:45:01Z"
+}
